@@ -1,11 +1,6 @@
-pandas
-numpy
 fastapi
-textblob
 uvicorn
-gdown
 scikit-learn
-nltk
+pandas
+gdown
 joblib
-
-
