@@ -1,6 +1,7 @@
+pandas==2.1.1
 fastapi
 textblob
 uvicorn
 gdown
-pandas
+
 
